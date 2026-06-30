@@ -16,6 +16,7 @@
 4. Created a public GitHub repository.
 5. Opened the repository in Cursor.
 6. Created this README.md file.
+7. Commit and Push to Github.
 
 ## Issues I Ran Into
 Initially, it was difficult to understand which tools are where, i.e, navigation, but I found them with the help of chatgpt and youtube videos.
