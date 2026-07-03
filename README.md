@@ -28,3 +28,26 @@ I didnt know how to clone the repository as well but undertsood that through a y
 - How to use Cursor with extensions.
 - How to write documentation using Markdown.
 - How to commit and push changes using Git.
+
+# AI-Powered SEO Content Production Research
+
+## Objective
+
+This repository contains research on AI-powered SEO content production. The goal is to study how experienced B2B SaaS marketers, SEO practitioners, and content strategists use AI to create scalable, high-quality SEO content.
+
+## Repository Structure
+
+research/
+- sources.md
+- linkedin-posts/
+- youtube-transcripts/
+- other/
+
+## Research Scope
+
+The project collects insights from 10 industry experts through:
+- LinkedIn posts
+- YouTube videos and transcripts
+- Other relevant content such as podcasts, blogs, or interviews
+
+This research will serve as the foundation for building a practical AI-powered SEO content production playbook.
