@@ -1,53 +1,57 @@
-# Portfolio Project Setup
+# 100Hires Portfolio
 
-## Tools Installed
+This repository contains the work completed as part of the 100Hires assessment. It includes the initial development environment setup and a research project on AI-powered SEO content production for B2B SaaS.
 
-- Cursor IDE
-- Claude Code extension
-- Codex extension
-- Git
-- GitHub
+---
 
-## Steps Completed
-
-1. Installed Cursor IDE.
-2. Installed the Claude Code extension and signed in.
-3. Installed the Codex extension and signed in.
-4. Created a public GitHub repository.
-5. Opened the repository in Cursor.
-6. Created this README.md file.
-7. Commit and Push to Github.
-
-## Issues I Ran Into
-Initially, it was difficult to understand which tools are where, i.e, navigation, but I found them with the help of chatgpt and youtube videos.
-I didnt know how to clone the repository as well but undertsood that through a youtube video.
-
-## What I Learned
-
-- How to create a GitHub repository.
-- How to use Cursor with extensions.
-- How to write documentation using Markdown.
-- How to commit and push changes using Git.
-
-# AI-Powered SEO Content Production Research
+# Phase 1 – Portfolio Setup
 
 ## Objective
 
-This repository contains research on AI-powered SEO content production. The goal is to study how experienced B2B SaaS marketers, SEO practitioners, and content strategists use AI to create scalable, high-quality SEO content.
+Set up the required development environment and GitHub repository for the assessment.
+
+### Tools Used
+
+- Git
+- GitHub
+- Cursor
+- Claude Code
+
+### Outcome
+
+- Repository initialized
+- Git configured
+- Initial commits completed
+- Development environment successfully set up
+
+---
+
+# Phase 2 – AI-Powered SEO Content Production Research
+
+## Research Objective
+
+This repository contains curated research on **AI-powered SEO content production for B2B SaaS**. The focus is on practitioners who actively publish research, frameworks, case studies, and implementation strategies related to AI Search, SEO, content production, and organic growth.
+
+Rather than selecting experts based solely on popularity, the emphasis was placed on practitioners producing practical, evidence-based insights that can support deeper research into modern AI-driven content marketing.
 
 ## Repository Structure
 
+```text
 research/
-- sources.md
-- linkedin-posts/
-- youtube-transcripts/
-- other/
+├── sources.md
+├── linkedin-posts/
+├── youtube-transcripts/
+└── other/
+```
 
-## Research Scope
+## Research Methodology
 
-The project collects insights from 10 industry experts through:
-- LinkedIn posts
-- YouTube videos and transcripts
-- Other relevant content such as podcasts, blogs, or interviews
+Experts were selected based on:
 
-This research will serve as the foundation for building a practical AI-powered SEO content production playbook.
+- Active contribution to AI Search and SEO.
+- Practical industry experience.
+- Original research and implementation frameworks.
+- Relevance to AI-powered SEO content production for B2B SaaS.
+- High-quality educational content across blogs, LinkedIn, YouTube, podcasts, and websites.
+
+The research is organized into dedicated folders containing LinkedIn analyses, YouTube summaries, and additional resources for each expert.
