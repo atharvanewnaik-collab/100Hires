@@ -2,104 +2,64 @@
 
 ## Overview
 
-Mike King is the Founder and CEO of iPullRank, a technical SEO consultancy specializing in enterprise SEO, machine learning, and AI-powered search. His work focuses on understanding how modern search engines retrieve, rank, and generate answers using large language models.
-
----
+Mike King is the Founder and CEO of iPullRank, a leading enterprise SEO and content strategy agency. Widely recognized as a pioneer in technical SEO, machine learning, and AI-powered search, he introduced the concept of **Relevance Engineering**—a modern approach that extends traditional SEO to optimize content for AI-driven search systems and large language models (LLMs). Through his research, consulting, and conference presentations, Mike helps organizations adapt to the evolving landscape of generative search and AI-first discovery.
 
 ## Why Selected
 
-Mike King was selected because he publishes detailed technical analysis on AI Search, retrieval systems, Google's AI Mode, and search ranking mechanisms. His work combines SEO, information retrieval, machine learning, and user experience, providing practical insights into how AI-powered search systems function.
-
----
+Mike King was selected for his groundbreaking work in AI Search Optimization and Relevance Engineering. His research explains how AI systems retrieve, interpret, and generate answers, providing actionable frameworks for optimizing content beyond traditional keyword-based SEO. His work is particularly valuable for B2B SaaS organizations preparing for the future of AI-powered content discovery.
 
 ## Areas of Expertise
 
+- Relevance Engineering
+
+- AI Search Optimization
+
+- Generative Engine Optimization (GEO)
+
 - Technical SEO
 
-- AI Search
+- Content Strategy
+
+- Machine Learning for Search
 
 - Information Retrieval
 
-- Search Ranking Systems
-
 - Enterprise SEO
 
-- Content Engineering
-
----
+- B2B SaaS SEO
 
 ## Selected Resources
 
-### 1. How AI Mode Works and How SEO Can Prepare for the Future of Search
+### The AI Search Manual
 
-**Platform:** iPullRank Blog
+**Platform:** iPullRank
 
-**Summary**
+**Link:** [https://ipullrank.com/ai-search-manual](https://ipullrank.com/ai-search-manual)
 
-A technical analysis explaining Google's AI-powered search experience, retrieval mechanisms, and their implications for SEO.
+**Summary:**
 
-**Reason for Selection**
+This comprehensive guide explains how search is evolving from traditional search engine results to AI-generated answers. It introduces the principles of Relevance Engineering and Generative Engine Optimization (GEO), covering AI search architecture, information retrieval, content strategy, visibility measurement, and organizational changes required to succeed in AI-powered search.
 
-Provides one of the most detailed public explanations of AI-powered search behaviour.
+**Reason for Selection:**
 
----
-
-### 2. LinkedIn Research on GPT Citation Patterns
-
-**Platform:** LinkedIn
-
-**Summary**
-
-An analysis of citation behaviour across AI-powered search systems and how search engines contribute to generated responses.
-
-**Reason for Selection**
-
-Demonstrates practical research supported by real-world observations.
+The manual provides one of the most comprehensive frameworks available for understanding AI Search Optimization, making it an essential reference for organizations developing scalable AI-powered SEO content strategies. :contentReference[oaicite:1]{index=1}
 
 ---
 
-### 3. Mike King: Relevance, Google & the End of SEO as We Know It
+### The AI Search Playbook
 
-**Platform:** YouTube
+**Platform:** BrightonSEO
 
-**Summary**
+**Link:** [https://brightonseo.com/events/october-2025/talks/the-ai-search-playbook](https://brightonseo.com/events/october-2025/talks/the-ai-search-playbook)
 
-An interview discussing the evolution of SEO, AI Search, and the concept of Relevance Engineering.
+**Summary:**
 
-**Reason for Selection**
+In this keynote, Mike King presents practical strategies for achieving visibility in AI-powered search platforms such as Google AI Overviews, ChatGPT, and Perplexity. The session explores semantic relevance, prompt engineering, information retrieval, query fan-out, and content structuring techniques that help content become a trusted source for AI-generated answers.
 
-Explains complex search concepts through practical examples and industry experience.
+**Reason for Selection:**
 
----
-
-### 4. Ranking in Google's AI Results in 2026
-
-**Platform:** YouTube
-
-**Summary**
-
-A discussion on ranking factors and optimization strategies for AI-generated search experiences.
-
-**Reason for Selection**
-
-Provides current perspectives on AI Search optimization.
-
----
-
-### 5. How Retrieval-Augmented Generation is Redefining SEO
-
-**Platform:** iPullRank Blog
-
-**Summary**
-
-An article exploring Retrieval-Augmented Generation (RAG) and its impact on modern SEO practices.
-
-**Reason for Selection**
-
-Connects AI retrieval techniques with practical SEO implementation.
-
----
+The presentation translates advanced AI search concepts into actionable implementation strategies, making it highly relevant for businesses adapting their SEO and content production workflows to AI-driven search environments. :contentReference[oaicite:2]{index=2}
 
 ## Notes
 
-Mike King's work provides a technical understanding of AI-powered search systems. His research is particularly valuable for understanding retrieval, ranking, and content optimization beyond traditional SEO practices.
+Mike King's work represents one of the most technically advanced perspectives on AI-powered search. His concept of Relevance Engineering expands traditional SEO into a broader discipline focused on optimizing content for AI retrieval systems, making his resources particularly valuable for B2B SaaS organizations building future-ready SEO and content strategies.
