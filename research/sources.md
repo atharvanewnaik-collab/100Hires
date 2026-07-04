@@ -6,7 +6,7 @@
 
 This repository contains curated research on **AI-powered SEO content production for B2B SaaS**. The focus is on practitioners who actively publish research, frameworks, case studies, and implementation strategies related to AI Search, SEO, content production, and organic growth.
 
-Rather than selecting experts based solely on popularity, the emphasis was placed on individuals producing practical, evidence-based insights that can support deeper research into modern AI-driven content marketing.
+Rather than selecting experts based solely on popularity, this research prioritizes professionals who consistently publish practical, evidence-based insights that can support a deeper understanding of modern AI-driven content marketing.
 
 ---
 
@@ -14,7 +14,7 @@ Rather than selecting experts based solely on popularity, the emphasis was place
 
 | Expert | Primary Platform | Focus Area | Reason for Selection |
 
-|---------|------------------|------------|----------------------|
+| :--- | :--- | :--- | :--- |
 
 | Kevin Indig | Growth Memo, LinkedIn | AI Search, Organic Growth | Publishes original research on AI Search, Answer Engine Optimization (AEO), and search visibility. |
 
@@ -40,11 +40,9 @@ Rather than selecting experts based solely on popularity, the emphasis was place
 
 ## Repository Structure
 
-```
+```text
 
 research/
-
-│
 
 ├── [sources.md](http://sources.md)
 
@@ -60,16 +58,16 @@ research/
 
 ## Research Methodology
 
-Experts were selected based on the following criteria:
+Experts were selected using the following criteria:
 
 - Active publication within the AI Search and SEO ecosystem.
 
 - Demonstrated practical experience rather than theoretical commentary.
 
-- Consistent publication of original research, frameworks, or implementation guidance.
+- Consistent publication of original research, implementation frameworks, or practical guidance.
 
-- Relevance to AI-powered SEO content production for B2B SaaS.
+- Strong relevance to AI-powered SEO content production for B2B SaaS.
 
-- High-quality educational content across LinkedIn, blogs, podcasts, or YouTube.
+- High-quality educational content across LinkedIn, blogs, podcasts, and YouTube.
 
-For each expert, relevant LinkedIn posts, videos, and supporting resources were reviewed and organized into dedicated folders to maintain a structured research repository.
+For each expert, relevant LinkedIn posts, YouTube videos, and supporting resources were reviewed and organized into dedicated folders to create a structured, easy-to-navigate research repository.
