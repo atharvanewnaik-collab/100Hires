@@ -1,63 +1,75 @@
-# AI-Powered SEO Content Production Research  
-  
-## Objective  
-  
-This repository contains curated research on AI-powered SEO content production for B2B SaaS companies. The objective is to understand how leading practitioners are adapting SEO, content marketing, and AI workflows to build scalable, high-performing content systems.  
-  
----  
-  
-# Expert Selection Methodology  
-  
-Experts were selected using the following criteria:  
-  
-- Demonstrated experience operating AI-powered SEO or content systems.  
-- Active publication of practical insights within the last 6 months.  
-- Original research, experiments, or implementation frameworks rather than generic commentary.  
-- Relevance to B2B SaaS content production.  
-- Ability to contribute material that can support a future implementation playbook.  
-  
-Rather than selecting the most popular influencers, this research prioritizes practitioners who publish actionable frameworks, case studies, technical research, and operational workflows.  
-  
----  
-  
-# Selected Experts  
-  
-| Expert | Primary Expertise | Why Selected |  
-|---------|-------------------|--------------|  
-| Kevin Indig | AI Search Research | Original quantitative research on AI Search and Answer Engine Optimization. |  
-| Mike King | Technical SEO | Deep understanding of retrieval systems, AI Mode and search mechanics. |  
-| Eli Schwartz | Product-led SEO | Enterprise SEO strategy and AI Search adoption. |  
-| Ryan Law | AI Content Systems | Public documentation of AI-powered content production workflows. |  
-| Aleyda Solis | AI Search Strategy | Practical frameworks, international SEO and continuous learning resources. |  
-| Ethan Smith | AI Citation Research | Large-scale research into AI visibility and citation behaviour. |  
-| Glen Allsopp | Independent SEO Research | Data-driven analysis and public company AI research. |  
-| Lily Ray | Enterprise SEO | Risk management and responsible AI Search implementation. |  
-| Ross Simmonds | Content Distribution | AI-era content distribution and visibility strategies. |  
-| Areej AbuAli | Community & Technical SEO | Community-driven AI Search insights and practitioner knowledge sharing. |  
-  
----  
-  
-## Repository Structure  
-  
-```  
-research/  
-├── [sources.md](http://sources.md)  
-├── linkedin-posts/  
-├── youtube-transcripts/  
-└── other/  
-```  
-  
----  
-  
-## Research Workflow  
-  
-This repository was built using an AI-assisted research workflow.  
-  
-Tools used:  
-  
-- Claude for practitioner discovery and research planning.  
-- Cursor IDE for repository organization.  
-- Git & GitHub for version control.  
-- Manual verification of expert selection and source relevance before inclusion.  
-  
-The collected material forms the research foundation for a future playbook on AI-powered SEO content production for B2B SaaS.
+# AI-Powered SEO Content Production
+
+## Research Sources
+
+### Research Objective
+
+This repository contains curated research on **AI-powered SEO content production for B2B SaaS**. The focus is on practitioners who actively publish research, frameworks, case studies, and implementation strategies related to AI Search, SEO, content production, and organic growth.
+
+Rather than selecting experts based solely on popularity, the emphasis was placed on individuals producing practical, evidence-based insights that can support deeper research into modern AI-driven content marketing.
+
+---
+
+## Selected Experts
+
+| Expert | Primary Platform | Focus Area | Reason for Selection |
+
+|---------|------------------|------------|----------------------|
+
+| Kevin Indig | Growth Memo, LinkedIn | AI Search, Organic Growth | Publishes original research on AI Search, Answer Engine Optimization (AEO), and search visibility. |
+
+| Mike King | iPullRank, LinkedIn | Technical SEO, AI Search | Shares technical research on AI Search, information retrieval, and enterprise SEO. |
+
+| Eli Schwartz | LinkedIn, Product-Led SEO | Enterprise SEO, Product-Led SEO | Connects AI-powered search with business strategy and long-term organic growth. |
+
+| Ryan Law | Ahrefs, LinkedIn | AI Content Production | Documents real-world AI-assisted content production workflows and editorial systems. |
+
+| Aleyda Solis | SEOFOMO, LinkedIn | AI Search, Technical SEO | Publishes practical frameworks and implementation guidance for AI-powered search optimization. |
+
+| Ethan Smith | LinkedIn | AI Search Research | Produces research on AI-generated content, AEO, LLM visibility, and search behaviour. |
+
+| Glen Allsopp | [Detailed.com](http://Detailed.com), LinkedIn | SEO Research | Known for original data-driven research on AI Search and SEO trends. |
+
+| Lily Ray | LinkedIn, Algorhythm | Enterprise SEO, AI Search | Shares evidence-based analysis of AI Search, Google's search systems, and content quality. |
+
+| Ross Simmonds | Foundation Marketing, LinkedIn | Content Marketing | Explores AI-powered content production, content distribution, and B2B SaaS marketing. |
+
+| Tom Critchlow | LinkedIn | AI Strategy, SEO | Shares practical insights on AI workflows, search strategy, and the future of knowledge work. |
+
+---
+
+## Repository Structure
+
+```
+
+research/
+
+│
+
+├── [sources.md](http://sources.md)
+
+├── linkedin-posts/
+
+├── youtube-transcripts/
+
+└── other/
+
+```
+
+---
+
+## Research Methodology
+
+Experts were selected based on the following criteria:
+
+- Active publication within the AI Search and SEO ecosystem.
+
+- Demonstrated practical experience rather than theoretical commentary.
+
+- Consistent publication of original research, frameworks, or implementation guidance.
+
+- Relevance to AI-powered SEO content production for B2B SaaS.
+
+- High-quality educational content across LinkedIn, blogs, podcasts, or YouTube.
+
+For each expert, relevant LinkedIn posts, videos, and supporting resources were reviewed and organized into dedicated folders to maintain a structured research repository.
